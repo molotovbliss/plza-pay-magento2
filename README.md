@@ -1,6 +1,6 @@
 # PLZA Pay for Magento 2
 
-A metaverse capable Solana Pay [`@solana/pay`] integration for Magento2.
+A metaverse capable Solana Pay [`@solana/pay`](https://github.com/solana-labs/solana-pay/) integration for Magento2.
 
 # Magento 2 Module PLZA Pay
 
