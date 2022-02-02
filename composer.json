@@ -1,0 +1,23 @@
+{
+    "name": "physis/module-plzapay",
+    "description": "A metaverse capable Solana Pay integration for Magento2",
+    "type": "magento2-module",
+    "license": "Apache-2.0",
+    "version": "1.0.0α",
+    "authors": [
+        {
+            "name": "Physis",
+            "email": "atelier@phys.is"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Physis\\PlzaPay\\": ""
+        }
+    }
+}
