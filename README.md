@@ -1,8 +1,8 @@
-# plza-pay-magento2
-A metaverse capable Solana Pay integration for Magento2.
+# PLZA Pay for Magento 2
 
+A metaverse capable Solana Pay [`@solana/pay`] integration for Magento2.
 
-# Magento 2 Module Physis plza Pay
+# Magento 2 Module PLZA Pay
 
     ``physis/module-plzapay``
 
@@ -14,7 +14,7 @@ A metaverse capable Solana Pay integration for Magento2.
 
 
 ## Main Functionalities
-Solana Pay integration for Magento 2 that enables direct commerce in the metaverse ecosystem
+Solana Pay integration for Magento 2 that enables direct commerce in a metaverse ecosystem
 
 ## Installation
 \* = in production please use the `--keep-generated` option
