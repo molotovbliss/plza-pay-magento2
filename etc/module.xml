@@ -1,8 +1,4 @@
-<?php
-/**
- * Copyright © 2022 All rights reserved.
- * See COPYING.txt for license details.
- */
-use Magento\Framework\Component\ComponentRegistrar;
-
-ComponentRegistrar::register(ComponentRegistrar::MODULE, 'Physis_PlzaPay', __DIR__);
+<?xml version="1.0" ?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+  <module name="Physis_PlzaPay" setup_version="0.0.1"/>
+</config>
